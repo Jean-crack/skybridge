@@ -25,6 +25,7 @@ export class SkybridgeRecords extends Construct {
     for (const subdomain of [
       "capitals",
       "ecommerce",
+      "generative-ui",
       "everything",
       "investigation-game",
       "manifest-ui",
